@@ -1,0 +1,16 @@
+## Discoverability and Feature blindness
+
+I.e. How easy it is for users to find and figure out features in software. Low discoverability leads to feature blindness and forgetfulness. 
+
+Feature blindness refers to when users don't know a feature exists or forget about it because the user interface doesn't make it clear or visible. Out of sight, out of mind.
+
+It can happen either because the feature is buried in complex menus where users won't find it, or because there are no visual cues (like buttons) to trigger awareness and memory of the feature.
+
+It leads to software capabilities being unused and value left on the table. 
+
+Common solutions involve surface-level design changes to make features more visible, findable, self-explanatory, and easier to interact with; adding reminders, configurable pop-ups, tooltips.
+
+## PySimpleGUI
+https://www.pysimplegui.org/en/latest/
+
+A stupidly easy solution to turn your CLI apps into GUI apps to drastically improve discoverability and reduce feature blindness.
