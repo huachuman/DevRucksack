@@ -13,4 +13,4 @@ Common solutions involve surface-level design changes to make features more visi
 ## PySimpleGUI
 https://www.pysimplegui.org/en/latest/
 
-A stupidly easy solution to turn your CLI apps into GUI apps to drastically improve discoverability and reduce feature blindness.
+A stupidly easy solution to create GUIs for CLI apps to drastically improve discoverability and reduce feature blindness.
