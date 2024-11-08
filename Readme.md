@@ -29,5 +29,5 @@ https://www.pysimplegui.org/en/latest/
 
 A stupidly easy solution to create GUIs for CLI apps to drastically improve discoverability and reduce feature blindness.
 
-If every developer released a simple GUI for their CLI tool, it would enable a portion of the population twenty times the size to use your software, the world would be a far more productive place.
+If every developer released a simple GUI for their CLI tool, it would enable twenty times the amount of people to use your software, the world would be a far better, more productive place.
 
