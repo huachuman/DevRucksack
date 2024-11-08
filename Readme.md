@@ -12,7 +12,7 @@ It leads to software capabilities being unused and value left on the table.
 
 Common solutions involve surface-level design changes to make features more visible, findable, self-explanatory, and easier to interact with; adding reminders, configurable pop-ups, tooltips.
 
-## PySimpleGUI
+### PySimpleGUI
 https://www.pysimplegui.org/en/latest/
 
 A stupidly easy solution to create GUIs for CLI apps to drastically improve discoverability and reduce feature blindness.
