@@ -14,3 +14,6 @@ Common solutions involve surface-level design changes to make features more visi
 https://www.pysimplegui.org/en/latest/
 
 A stupidly easy solution to create GUIs for CLI apps to drastically improve discoverability and reduce feature blindness.
+
+## Cognitive load
+https://github.com/zakirullin/cognitive-load
