@@ -1,3 +1,15 @@
+## Cognitive load
+https://github.com/zakirullin/cognitive-load
+
+>There are so many buzzwords and best practices out there, but let's focus on something more fundamental. What matters is the amount of confusion developers feel when going through the code.
+>
+>Confusion costs time and money. Confusion is caused by high cognitive load. It's not some fancy abstract concept, but rather a fundamental human constraint.
+>
+>Since we spend far more time reading and understanding code than writing it, we should constantly ask ourselves whether we are embedding excessive cognitive load into our code.
+>
+>...
+
+
 ## Discoverability and Feature blindness
 
 As an end-user that encounters this problem constantly, it bears repeating. 
@@ -17,5 +29,3 @@ https://www.pysimplegui.org/en/latest/
 
 A stupidly easy solution to create GUIs for CLI apps to drastically improve discoverability and reduce feature blindness.
 
-## Cognitive load
-https://github.com/zakirullin/cognitive-load
